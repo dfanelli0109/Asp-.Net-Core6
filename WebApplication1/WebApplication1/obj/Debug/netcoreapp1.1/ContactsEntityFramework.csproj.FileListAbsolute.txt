@@ -1,0 +1,9 @@
+C:\src\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\ContactsEntityFramework.deps.json
+C:\src\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\ContactsEntityFramework.runtimeconfig.json
+C:\src\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\ContactsEntityFramework.runtimeconfig.dev.json
+C:\src\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\ContactsEntityFramework.dll
+C:\src\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\ContactsEntityFramework.csprojResolveAssemblyReference.cache
+C:\src\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\ContactsEntityFramework.AssemblyInfo.cs
+C:\src\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\ContactsEntityFramework.pdb
+C:\src\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\ContactsEntityFramework.dll
+C:\src\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\ContactsEntityFramework.pdb
